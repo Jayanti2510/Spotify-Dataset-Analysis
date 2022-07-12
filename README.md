@@ -16,7 +16,8 @@ The Spotify Dataset Analysis using Python analyze, visualize and draw insights w
  
 # Demo
 
-![Correlation HeatMap between Variable](https://user-images.githubusercontent.com/80064004/177056456-0ea7787f-d54e-4095-9e2b-fe5a0d9382f2.png)
+![Correlation HeatMap between Variable (1)](https://user-images.githubusercontent.com/80064004/178594964-09fbd44e-9d7e-448a-b7c2-fac437da3a97.png)
+
 ![Loudness vs Energy Correlation](https://user-images.githubusercontent.com/80064004/177056480-295b10a2-e4b7-4786-aaaf-16791d0f3d04.png)
 ![Popularity vs Acousticness Correlation](https://user-images.githubusercontent.com/80064004/177056499-cd801e05-539f-4d5e-b4b9-b7696b56bed5.png)
 ![Number of songs per year](https://user-images.githubusercontent.com/80064004/177056502-9202a169-1e52-48e3-92b9-68fd1055a970.png)
