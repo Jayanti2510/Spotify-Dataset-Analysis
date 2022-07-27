@@ -1,7 +1,7 @@
 # Spotify-Dataset-Analysis
 
 # About the Project
-The Spotify Dataset Analysis using Python analyze, visualize and draw insights with Python libraries and functions on the Spotify datasets.
+The Spotify Dataset Analysis using Python analyzed, visualized and drawn insights with Python libraries and functions on the Spotify datasets.
 
 # Tools Used
 - NumPy
